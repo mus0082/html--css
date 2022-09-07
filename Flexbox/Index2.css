@@ -1,0 +1,228 @@
+ body {
+     margin:0px;
+     padding: 0px;
+     background: rgb(46, 124, 212);
+ }
+
+ img {
+     width: 150px;
+     float: left;
+ }
+
+ h1{
+     color: white;
+     font-size: 3rem;
+     font-family: sans-serif;
+     font-weight: lighter;
+     font-style: Bold;
+     float: left;
+ }
+
+ #oneline{
+    display: inline-block;
+ }
+
+ #line2{
+     display: inline-block;
+ }
+
+ #line2 img{
+    width: 50px;
+    margin: 50px 0px 0px 500px;
+    position: relative;
+    left: 150px;
+ }
+
+
+#line2 p{
+    display: inline-block;
+    margin: 65px 0px 0px 0px;
+    color: white;
+    font-size: 1rem;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+
+nav {
+    margin-top: 100px;
+    margin-left: 70rem;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-style: normal;
+}
+
+a{
+      text-decoration: none;
+      color: aliceblue;
+}
+
+.Search{
+    margin: 50px 0px 0px 200px;
+    display: block;
+}
+
+.SP{
+    width: 800px;
+    height:50px
+
+}
+.Btn{
+    color: white;
+    background-color: rgb(65, 171, 241);
+    height: 60px;
+    font-weight: bold;
+
+}
+
+P {
+    margin: 100px 0px 0px 200px;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-style: normal;
+    color: aliceblue;
+    font-size: 50px;
+}
+
+span{
+    margin-left: 80px;
+}
+
+.logos-headings {
+    display: flex;
+    flex-direction: row;
+    margin-top: 50px;
+    justify-content: space-evenly;
+}
+
+h2{
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 1rem;
+    font-style: normal;
+    color: aliceblue;
+    display: inline-block;
+    flex-direction: rows;
+    margin-top: 30px;
+    margin-left: 10px;   
+}
+
+.for-image img{
+      align-self: center;
+      width: 80px;
+}
+/*  *//*  *//*  *//*  *//*  *//*  *//*  *//*  *//*  *//*  *//*  *//*  *//*  */
+
+@media screen and (min-width:500px) and (max-width:1000px) {
+body {
+     margin:0px;
+     padding: 0px;
+     background: rgb(46, 124, 212);
+ }
+
+ img {
+     width: 50%;
+     float: left;
+ }
+
+ h1{
+     color: rgb(245, 21, 21);
+     font-size: 50px;
+     font-family: sans-serif;
+     font-weight: lighter;
+     font-style: Bold;
+     float: left;
+ }
+
+ #oneline{
+    display: inline-block;
+ }
+
+ #line2{
+     display: inline-block;
+ }
+
+ #line2 img{
+    width: 50%;
+    margin: 50% 0px 0px 500%;
+    position: relative;
+    left: 150%;
+ }
+
+
+#line2 p{
+    display: inline-block;
+    margin: 65% 0% 0% 0%;
+    color: white;
+    font-size: 1%;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+
+nav {
+    margin-top: 100%;
+    margin-left: 70%;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-style: normal;
+}
+
+a{
+      text-decoration: none;
+      color: rgb(252, 6, 6);
+}
+
+.Search{
+    margin: 50% 0% 0% 200%;
+    display: block;
+}
+
+.SP{
+    width: 800%;
+    height:50%
+
+}
+.Btn{
+    color: white;
+    background-color: rgb(65, 171, 241);
+    height: 60%;
+    font-weight: bold;
+
+}
+
+P {
+    margin: 100% 0% 0% 200%;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-style: normal;
+    color: aliceblue;
+    font-size: 50%;
+}
+
+span{
+    margin-left: 80%;
+}
+
+.logos-headings {
+    display: flex;
+    flex-direction: row;
+    margin-top: 50%;
+    justify-content: space-evenly;
+}
+
+h2{
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 1%;
+    font-style: normal;
+    color: aliceblue;
+    display: inline-block;
+    flex-direction: rows;
+    margin-top: 30%;
+    margin-left: 10%;   
+}
+
+.for-image img{
+      align-self: center;
+      width: 80%;
+}
+}

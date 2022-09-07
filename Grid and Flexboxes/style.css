@@ -1,0 +1,472 @@
+body {
+    background: url(Cricket.jpg);
+    background-size: cover;
+}
+
+.flex-container {
+    display: inline-flex;
+}
+
+h1 {
+    color: rgb(238, 120, 60);
+    font-size: 1.5rem;
+    font-family: Arial, Helvetica, sans-serif;
+    align-self: center;
+
+}
+
+header img {
+    width: 220px;
+}
+
+
+nav {
+    border: solid rgba(169, 211, 184, 0.444) 2px;
+    background-color: rgb(4, 43, 30);
+    text-align: center;
+}
+
+ul {
+    padding: 5px;
+}
+
+a {
+    text-decoration: none;
+    color: aliceblue;
+    font-size: 1.2rem;
+}
+
+li {
+    color: aliceblue;
+    display: inline;
+    margin: 50px;
+}
+
+.Flex-container-2 {
+    border: solid rgb(254, 254, 254) 5px;
+    background-color: aliceblue;
+    margin: 15px 70px 0px 70px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    border-radius: 10px;
+
+}
+
+.box-1 {
+    border-bottom: solid grey 5px;
+    font-size: 2rem;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: Bold;
+}
+
+.box-2 {
+    border-bottom: solid grey 5px;
+    font-size: 2rem;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: Bold;
+}
+
+.box-3 {
+    border-bottom: solid grey 5px;
+    font-size: 2rem;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: Bold;
+}
+
+
+.flex-container3 {
+    border: solid rgb(254, 254, 254) 5px;
+    background-color: aliceblue;
+    margin: 8px 70px 10px 70px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border-radius: 10px;
+}
+
+.box-4 {
+    font-size: 2rem;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: Bold;
+}
+
+
+.box-5 {
+    font-size: 2rem;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: Bold;
+    margin-left: 100px;
+}
+
+
+.box-6 {
+    font-size: 2rem;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: Bold;
+
+}
+
+.flex-container4 {
+    border: solid rgb(254, 254, 254) 5px;
+    background-color: aliceblue;
+    margin: 8px 70px 10px 70px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border-radius: 10px;
+}
+
+.box-7 {
+
+    font-size: 2rem;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: Bold;
+}
+
+.box-8 {
+
+    font-size: 2rem;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: Bold;
+}
+
+.box-9 {
+
+    font-size: 2rem;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: Bold;
+}
+
+.flex-container5 {
+    border: solid rgb(254, 254, 254) 5px;
+    background-color: aliceblue;
+    margin: 8px 70px 10px 70px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border-radius: 10px;
+}
+
+.box-10 {
+
+    font-size: 2rem;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: Bold;
+}
+
+.box-10 {
+
+    font-size: 2rem;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: Bold;
+}
+
+.box-11 {
+
+    font-size: 2rem;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: Bold;
+}
+
+.flex-container6 {
+    border: solid rgb(254, 254, 254) 5px;
+    background-color: aliceblue;
+    margin: 8px 70px 10px 70px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border-radius: 10px;
+}
+
+.box-12 {
+
+    font-size: 2rem;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: Bold;
+}
+
+.box-13 {
+
+    font-size: 2rem;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: Bold;
+}
+
+.box-14 {
+
+    font-size: 2rem;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: Bold;
+}
+
+.flex-container7 {
+    border: solid rgb(254, 254, 254) 5px;
+    background-color: aliceblue;
+    margin: 8px 70px 10px 70px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border-radius: 10px;
+}
+
+.box-15 {
+
+    font-size: 2rem;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: Bold;
+}
+
+.box-16 {
+
+    font-size: 2rem;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: Bold;
+}
+
+.box-17 {
+
+    font-size: 2rem;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: Bold;
+}
+
+.flex-container8 {
+    border: solid rgb(254, 254, 254) 5px;
+    background-color: aliceblue;
+    margin: 8px 70px 10px 70px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border-radius: 10px;
+}
+
+.box-18 {
+
+    font-size: 2rem;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: Bold;
+}
+
+.box-19 {
+
+    font-size: 2rem;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: Bold;
+}
+
+.box-20 {
+
+    font-size: 2rem;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: Bold;
+}
+
+.flex-container9 {
+    border: solid rgb(254, 254, 254) 5px;
+    background-color: aliceblue;
+    margin: 8px 70px 10px 70px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border-radius: 10px;
+}
+
+.box-21 {
+
+    font-size: 2rem;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: Bold;
+}
+
+.box-22 {
+
+    font-size: 2rem;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: Bold;
+}
+
+.box-23 {
+
+    font-size: 2rem;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: Bold;
+}
+
+.flex-container10 {
+    border: solid rgb(254, 254, 254) 5px;
+    background-color: aliceblue;
+    margin: 8px 70px 10px 70px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border-radius: 10px;
+}
+
+.box-24 {
+    font-size: 2rem;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: Bold;
+}
+
+.box-25 {
+    font-size: 2rem;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: Bold;
+}
+
+.box-26 {
+    font-size: 2rem;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: Bold;
+}
+
+.box-27 {
+    font-size: 2rem;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: Bold;
+}
+
+footer {
+    border: solid rgba(169, 211, 184, 0.444) 2px;
+    background-color: rgb(4, 43, 30);
+    text-align: center;
+}
+
+/*  */
+/*  */
+/*  */
+/* second page css */
+/*  */
+/*  */
+/*  */
+/*  */
+/*  */
+/*  */
+/*  */
+/*  */
+/*  */
+/*  */
+
+.flex-second-container {
+    display: flex;
+    border: solid rgba(242, 6, 6, 0.1) 10px;
+    background-color: aliceblue;
+    height: 600px;
+    margin: 20px;
+    border-radius: 10px;
+    flex-wrap: wrap;
+    flex-direction: row;
+    align-content: stretch;
+}
+
+.box {
+    border: solid rgb(238, 120, 60) 3px;
+    width: 50px;
+    height: 50px;
+    background-color: blanchedalmond;
+    flex-basis: 100%;
+
+}
+
+.box-a {
+    font-family: sans-serif;
+    font-size: 1.5rem;
+    font-style: Bold;
+    text-align: center;
+}
+
+.box-b {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 1.5rem;
+    font-style: italic;
+    text-align: center;
+}
+
+.box-c {
+    font-family: 'Gill Sans',
+        'Gill Sans MT',
+        Calibri,
+        'Trebuchet MS',
+        sans-serif;
+    font-size: 1.5rem;
+    font-style: italic;
+    text-align: center;
+}
+
+.box-d {
+    font-family: 'Gill Sans',
+        'Gill Sans MT',
+        Calibri,
+        'Trebuchet MS',
+        sans-serif;
+    font-size: 1.5rem;
+    font-style: italic;
+    text-align: center;
+}
+
+.box-e {
+    font-family: ' Gill Sans',
+        'Gill Sans MT',
+        Calibri,
+        'Trebuchet MS',
+        sans-serif;
+    font-size: 1.5rem;
+    font-style: italic;
+    text-align: center;
+}
+
+.box-f {
+    font-family: 'Gill Sans',
+        'Gill Sans MT',
+        Calibri,
+        'Trebuchet MS',
+        sans-serif;
+    font-size: 1.5rem;
+    font-style: italic;
+    text-align: center;
+}
+
+.box-g {
+    font-family: 'Gill Sans',
+        'Gill Sans MT',
+        Calibri,
+        'Trebuchet MS',
+        sans-serif;
+    font-size: 1.5rem;
+    font-style: italic;
+    text-align: center;
+}
+
+.box-h {
+    font-family: 'Gill Sans',
+        'Gill Sans MT',
+        Calibri,
+        'Trebuchet MS',
+        sans-serif;
+    font-size: 1.5rem;
+    font-style: italic;
+    text-align: center;
+}
+
+.box-i {
+    font-family: 'Gill Sans',
+        'Gill Sans MT',
+        Calibri,
+        'Trebuchet MS',
+        sans-serif;
+    font-size: 1.5rem;
+    font-style: italic;
+    text-align: center;
+}
+
+.box-j {
+    font-family: 'Gill Sans',
+        'Gill Sans MT',
+        Calibri,
+        'Trebuchet MS',
+        sans-serif;
+    font-size: 1.5rem;
+    font-style: italic;
+    text-align: center;
+}
